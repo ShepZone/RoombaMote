@@ -6,7 +6,7 @@ Parts Needed
 ------------
 - [DC Boarduino]
 - [FTDI Serial USB Cable] (or other FTDI cable)
-- Male Power Adapter [Terminal] - OR - [Alligator Clip] (only need one)
+- Male Power Adapter [Terminal] - OR - [Alligator Clip] -\- you only need one!
 - [DC Switch]
 - [IR Remote]
 - [IR Receiver]
